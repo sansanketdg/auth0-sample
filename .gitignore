@@ -1,3 +1,5 @@
 node_modules/
 .env
 npm-debug.log
+box_config.json
+box_private_key.json
