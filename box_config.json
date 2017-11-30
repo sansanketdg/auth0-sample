@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "2tmxesh0nydvq4yuhtfjrrjj2fu6jvyl",
+    "clientSecret": "50UsJlcsaPb3horcQds3gPFguYXL6ML9",
+    "appAuth": {
+      "publicKeyID": "g39kdt88",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIP+QjACOY7QYCAggA\nMBQGCCqGSIb3DQMHBAjeHiR6AA/SVgSCBMgIG3PIMTzFxh16KLn9oa0UUQ3VaCQJ\nYDeu3J5YdYSz9/d8eyR0e3cqy/jrvKdswqgwqt7cgd9Z9RKXQLgS/TGMXV6r61Ui\nM0MiC0dxLFHsbLIs+50bRlSKIpT4rVa7GBdj2UsalxVuviW4oPdtCeIq53fpTVRz\nzee5QKRLMJ5iew+1Iqcx+FU/SHTdSedzhSLUQLWw5gP/OppqUQSjTMe+9YzZolF5\nmVgqc2a8WlNORZ9b4r38HI9LaW+w7b9L1oVoV5vXL16aR8RMJ2MhoBmnpVb5RWrF\nlJE06xuE75rZuyRezABDVNKjRs32BmyV81fNcmw/QRj/7aHgof+8y23iX+eImCbR\n+JfhnQhXJUakHKSDbzIgIiRHAphJe+LwmpoUyxhTHOogLv2iXT5eMnJzIBl9ZtWW\nxoOeeCy4R/FfbhiFz58ElwIiwzHw2/jwCmxpfooT9N0j201l1vvtpERpQclastKz\nt0fECCEJGXR9s1C/vr9+jypUsgg6PlIst2suHmlBmv+5LN4FGKRaqzTdQW40JXCB\nUrEk7QVVviU3GZ7yigsznX3e7AAz+06MDyUSWyLcgWs/Byxutp/HJO20fDVgqkYP\nkETIuDAvJSlIskdxEjap91utWgVR6vrybNbvzU4y1xdK7SMZEf1EO0K+U4eu5+oO\nVy+XDCo4/Eu9F0RETyIxpvOGfQcV9eswM8SdEpw0otX5bZqSvNfErsmpeF4yEBin\n0hVCUM2Py4casap34KVoTXUOF8GylXib0XIWy1FjRmwJuuq2JwKF5KOqOjtmvexi\n4Wzqx574UMx5w7Rm6o2WiPrdg/xoFBfRSYysMkY74R9+HCEVwl7A9vE6kwFYpQ4M\nxgBdMKPZS3ZByaN2I/Vht4WqfjdexwK27aTi42mz5T5DiMlrMNdkxLnIKzNeJsna\nPWmtn6EBmI04UqzYOuC5HHMQKOgktRA4Sti0PDYU8LQ/iCnTDbCW6NIqFSQe/bce\nmTu9ftl4/a1Yu1+64cFazyxP3gmWBcaEzVltZSyMp/kjziMlvCjW5lD2Bxarzotm\nqVIEnF/9b8MsXKGnHAox0Ke1QJIWvBtSCKC2CoTaN0G1c0eHH1kJ7+4mygFj3uK/\nKq6QInYZTuPvD1cTO0h8CbBlmgR86lUiS4MfoqyMQK35aPu7WC1MkK/aEU0q9Xjv\nEg/+gK64aB/T9VkFaEx8Iwx27P8mQFmlcBMVMvKY/vrNwtoDL9BbHudOpC4iGH2r\nZbCjsamoVr5FyRJmZoMmBxb8ukUl84ykgxF9+paLsiNjev7BS8uAPc5dgRrA5ZoA\nFpm9DoklXPWndXp8udAWM9qQPbFTrhYdXgqaYvHm+rO0c19Qbl1mabSKyy8oM59h\nvqFd9kPVjdGy1wf9nug/W2eiBLrKvhpTF/EwKIHF2w41fULcSGnamVvojN75edaR\nsSpBSg1y9+6JFOfUYZIgR6GY9/h9O1IgcYKy5yeg4CZwsUKdvipIyQbWgYkte435\nmZq/FsB1YXl8AoXO/A7fAJ5J3T2fKnonVHVMkKeJpNGNsEt2V/93vnCQjXxPCOtU\nkbrDOB6F04LB0NM2IR+mscfpr0WdMVDdaLKv+1SJqkLuAV6SX7xd7jebekzQiPhB\nu+g=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "572953a8e82c80f2c1a6755f650ae755"
+    }
+  },
+  "enterpriseID": "32363339"
+}
